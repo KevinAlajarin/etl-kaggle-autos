@@ -12,9 +12,10 @@ Un proyecto *End-to-End* de Ingeniería de Datos y Business Intelligence que ana
 El flujo de datos sigue una arquitectura lineal robusta:
 
 1.  **Ingesta (Extract):** Lectura de datos crudos (CSV) provenientes de web scraping (Kaggle).
-2.  **Procesamiento (Transform):** * Limpieza de datos con Pandas (Manejo de nulos, tipado).
+2.  **Procesamiento (Transform):**
+    * Limpieza de datos con Pandas (Manejo de nulos, tipado).
     * **Normalización de Moneda:** Separación crítica entre ARS (Pesos) y USD (Dólares).
-    * **Reglas de Negocio:** Eliminación de outliers y estandarización de nombres de marcas/modelos.
+    * **Reglas de Negocio:** Eliminación de outliers y estandarización de nombres.
 3.  **Carga (Load):** Persistencia en **SQL Server** usando SQLAlchemy y ODBC.
 4.  **Modelado:** Creación de Vistas SQL (`vw_analytics`) para pre-calcular métricas.
 5.  **Visualización:** Dashboard interactivo en **Power BI**.
@@ -89,6 +90,9 @@ Abre el archivo power_bi/Argentina_Car_Analysis.pbix.
 
 Si es necesario, actualiza el origen de datos (Data Source) apuntando a tu instancia local de SQL Server.
 
+📊 Dashboard Preview
+[Inserta aquí una captura de pantalla de tu Dashboard]
+
 Insights Clave:
 
 Identificación de oportunidades de mercado (Bajo Kilometraje / Precio).
@@ -107,6 +111,5 @@ Visualización: Microsoft Power BI (DAX, Data Modeling).
 Gestión de Configuración: Dotenv.
 
 Logging: Python Logging estándar.
-```
 
-Autor: Kevin Alajarin
+Autor: [Tu Nombre]
