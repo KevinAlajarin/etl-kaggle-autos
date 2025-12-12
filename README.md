@@ -20,13 +20,15 @@ El flujo de datos sigue una arquitectura lineal robusta:
 4.  **Modelado:** Creación de Vistas SQL (`vw_analytics`) para pre-calcular métricas.
 5.  **Visualización:** Dashboard interactivo en **Power BI**.
 
-```mermaid
-graph LR
-    A[CSV Raw Data] -->|Python Pandas| B(ETL Pipeline)
-    B -->|Clean & Transform| C{Validación}
-    C -->|Pass| D[(SQL Server DB)]
-    D -->|Vistas SQL| E[Power BI Dashboard]
-    C -->|Fail| F[Error Logs]
+### Diagrama de Flujo
+```text
+[CSV Raw Data] 
+      ⬇
+(Python ETL Pipeline) ➡ [Validación & Limpieza]
+      ⬇
+[(SQL Server DB)] 
+      ⬇
+[Vistas Analíticas] ➡ [Power BI Dashboard]
 📂 Estructura del Repositorio
 Plaintext
 
