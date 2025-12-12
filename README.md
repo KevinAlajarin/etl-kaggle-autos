@@ -20,6 +20,8 @@ El flujo de datos sigue una arquitectura lineal robusta:
 4.  **Modelado:** Creación de Vistas SQL (`vw_analytics`) para pre-calcular métricas.
 5.  **Visualización:** Dashboard interactivo en **Power BI**.
 
+<img width="1151" height="364" alt="image" src="https://github.com/user-attachments/assets/ac1d8269-db9c-483c-a98d-a7f4eb20d02d" />
+
 ### Diagrama de Flujo
 ```text
 [CSV Raw Data] 
