@@ -92,9 +92,6 @@ Abre el archivo power_bi/Argentina_Car_Analysis.pbix.
 
 Si es necesario, actualiza el origen de datos (Data Source) apuntando a tu instancia local de SQL Server.
 
-📊 Dashboard Preview
-[Inserta aquí una captura de pantalla de tu Dashboard]
-
 Insights Clave:
 
 Identificación de oportunidades de mercado (Bajo Kilometraje / Precio).
@@ -113,5 +110,6 @@ Visualización: Microsoft Power BI (DAX, Data Modeling).
 Gestión de Configuración: Dotenv.
 
 Logging: Python Logging estándar.
+```
 
-Autor: [Tu Nombre]
+Autor: Kevin Alajarin
