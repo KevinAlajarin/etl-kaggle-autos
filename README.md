@@ -19,6 +19,7 @@ El flujo de datos sigue una arquitectura lineal robusta:
 4.  **Modelado:** Creación de Vistas SQL (`vw_analytics`) para pre-calcular métricas.
 5.  **Visualización:** Dashboard interactivo en **Power BI**.
 
+```mermaid
 graph LR
     A[CSV Raw Data] -->|Python Pandas| B(ETL Pipeline)
     B -->|Clean & Transform| C{Validación}
