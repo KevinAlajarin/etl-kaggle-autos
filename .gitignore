@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# --- Variables de Entorno y Secretos (CRÍTICO) ---
+.env
+.env.local
+
+# --- Logs ---
+*.log
+etl_pipeline.log
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Datos ---
+# Opcional: Si quieres que el repo incluya los datos de ejemplo para que funcione directo,
+# comenta estas lineas con #. Si son datos privados o muy pesados, déjalas así.
+# data/raw/
+# data/processed/
+
+# --- Power BI ---
+# Ignorar archivos temporales o de bloqueo de Power BI
+*.pbix.lock

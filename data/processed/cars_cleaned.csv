@@ -1,0 +1,511 @@
+brand,model,year,color,fuel_type,door,gear,motor,body_type,kilometers,currency,price,car_age,price_segment,km_category,sku_id
+Toyota,Corolla Cross,2022,Plateado,Nafta,5.0,Automática,,Suv,500,pesos,10350000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1000
+Jeep,Compass,2022,Blanco,Nafta,5.0,Automática,2.4,Suv,500,pesos,10850000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1001
+Jeep,Compass,2022,Gris Oscuro,Nafta,5.0,Automática,2.4,Suv,500,dólares,35500,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1002
+Citroën,C4 Cactus,2022,Gris Oscuro,Nafta,5.0,Automática,,Suv,550,dólares,19000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1003
+Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,9000,pesos,5800000,6,Cotizacion en Pesos (Verificar),Nuevo (<20k),1004
+Jeep,Compass,2022,Negro,Nafta,5.0,Automática,1.3,Suv,10500,dólares,34500,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1005
+Kia,Sorento,2014,Negro,Diésel,5.0,Automática,2.2,Suv,156000,dólares,25000,11,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1006
+Mercedes-Benz,Clase C,2008,Plateado,Nafta,4.0,Automática,1.8,Sedán,174000,dólares,12300,17,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1007
+Bmw,220,2016,Blanco,Nafta,2.0,Automática,TURBO,Coupé,66000,dólares,35500,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1008
+Volkswagen,T-Cross,2019,Naranja,Nafta,5.0,Automática,1.6 MSI Nafta,Suv,35000,pesos,6800000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1009
+Mercedes-Benz,Clase A,2017,Plateado,Nafta,5.0,Automática,3,Hatchback,55394,dólares,38500,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1010
+Mercedes-Benz,Clase A,2013,Blanco,Nafta,5.0,Manual,1.6,Hatchback,162080,dólares,20500,12,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1011
+Renault,Sandero,2022,Plateado,Nafta,5.0,Manual,,Sedán,111111,pesos,3500000,3,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1012
+Volkswagen,Polo,2022,Blanco,Nafta,5.0,Manual,1.6,Hatchback,111111,pesos,5990000,3,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1013
+Bmw,Serie 1,2020,Negro,Nafta,5.0,Automática,,Hatchback,34800,dólares,41900,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1014
+Ford,Ecosport,2011,Beige,Nafta,4.0,Manual,1.6,Suv,101000,pesos,2100000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1015
+Chevrolet,Trailblazer,2019,Gris,Diésel,5.0,Automática,,Suv,73000,dólares,38500,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1016
+Toyota,Etios,2015,Blanco,Nafta,5.0,Manual,1.5,Hatchback,83000,pesos,2940000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1017
+Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,99000,pesos,2050000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1018
+Toyota,Rav4,2011,Gris,Nafta,5.0,Automática,2.4,Suv,180000,pesos,4120000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1019
+Toyota,Etios,2018,Gris,Nafta,5.0,Manual,1.5,Sedán,80000,pesos,4100000,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1020
+Mini,Cooper,2013,Rojo,Nafta,5.0,Manual,1.6,Hatchback,105000,dólares,15000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1021
+Jeep,Renegade,2018,Rojo,Nafta,5.0,Manual,1.8,Suv,78000,pesos,5099000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1022
+Toyota,Hilux,2017,Rojo,Diésel,4.0,Manual,2.8,Pick-Up,170000,pesos,8300000,8,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1023
+Fiat,Bravo,2013,Negro,Nafta,5.0,Manual,,Hatchback,124000,pesos,2800000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1024
+Ford,Ecosport,2019,Gris,Nafta,5.0,Manual,1.5,Suv,61000,pesos,4500000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1025
+Chevrolet,Classic,2014,Gris,Nafta,5.0,Manual,1.6,Hatchback,38000,pesos,2400000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1026
+Renault,Master,2013,Blanco,Diésel,3.0,Manual,2.3,Hatchback,180000,pesos,5200000,12,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1027
+Ford,Ranger,2021,Blanco,Diésel,4.0,Manual,2.2,Pick-Up,55000,pesos,7500000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1028
+Peugeot,408,2013,Gris Oscuro,Nafta,4.0,Manual,2,Sedán,95000,pesos,2450000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1029
+Honda,Cr-V,2013,Blanco,Nafta,5.0,Automática,2,Suv,186700,pesos,5200000,12,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1030
+Toyota,Hilux,2022,Negro,Diésel,4.0,Manual,,Pick-Up,21000,pesos,10200000,3,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1031
+Dodge,Journey,2011,Blanco,Nafta,5.0,Automática,2.4,Crossover,110000,pesos,2450000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1032
+Fiat,Siena,2017,Gris,Nafta,5.0,Manual,1.4,Sedán,62000,pesos,2585000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1033
+Ford,Fiesta,2016,Rojo,Nafta,5.0,Manual,,Hatchback,68000,pesos,3150000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1034
+Hyundai,Tucson,2010,Negro,Nafta,5.0,Manual,2,Suv,125000,pesos,4300000,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1035
+Honda,Hr-V,2019,Rojo,Nafta,5.0,Automática,1.8,Suv,39000,pesos,7589900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1036
+Fiat,Linea,2014,Plateado,Nafta,4.0,Manual,1.8,Sedán,147000,pesos,1950000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1037
+Chevrolet,Onix,2016,Gris,Nafta,5.0,Manual,1.4,Hatchback,64000,pesos,3050000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1038
+Peugeot,408,2015,Blanco,Nafta,4.0,Manual,1.6,Sedán,90000,pesos,3150000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1039
+Chevrolet,Equinox,2021,Plateado,Nafta,5.0,Automática,1.5,Suv,23000,pesos,9389900,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1040
+Peugeot,308,2015,Blanco,Nafta,5.0,Automática,1.6,Hatchback,83000,pesos,3290000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1041
+Audi,A1,2011,Blanco,Nafta,3.0,Automática,1.4,Hatchback,99000,dólares,14900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1042
+Citroën,Aircross,2017,Plateado,Nafta/Gnc,5.0,Automática,1.6,Hatchback,75000,pesos,3150000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1043
+Peugeot,408,2015,Gris,Nafta,4.0,Manual,2.0,Sedán,57000,pesos,3100000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1044
+Peugeot,308,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,98000,pesos,2750000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1045
+Ford,Kuga,2013,Blanco,Nafta,5.0,Manual,2.5,Suv,85000,pesos,3750000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1046
+Toyota,Corolla Cross,2022,Rojo,Híbrido/Nafta,5.0,Automática,1.8,Suv,510,pesos,11290000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1047
+Jeep,Grand Cherokee,2015,Blanco,Nafta,5.0,Automática,3.6,Suv,44000,dólares,46900,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1048
+Fiat,Palio,2018,Blanco,Nafta,5.0,Manual,1.4,Hatchback,53000,pesos,2520000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1049
+Toyota,Camry,2018,Gris,Nafta,4.0,Automática,3.5,Sedán,59698,dólares,43000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1050
+Peugeot,208,2018,Negro,Nafta,5.0,Manual,1.6,Sedán,60202,dólares,17900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1051
+Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,10000,pesos,5850000,6,Cotizacion en Pesos (Verificar),Nuevo (<20k),1052
+Mercedes-Benz,Clase E,2014,Blanco,Nafta,4.0,Automática,2.1,Sedán,129681,dólares,32000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1053
+Mercedes-Benz,Clase E,2019,Gris,Nafta,4.0,Automática,3,Sedán,18594,dólares,185000,6,Cotizacion en Pesos (Verificar),Nuevo (<20k),1054
+Hyundai,Genesis,2012,Gris,Nafta,2.0,Manual,,Coupé,104270,dólares,23500,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1055
+Porsche,Panamera,2010,Blanco,Nafta,4.0,Automática,,Sedán,59141,dólares,79900,15,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1056
+Volkswagen,Up!,2015,Blanco,Nafta,5.0,Automática,1.0,Hatchback,110000,pesos,2500000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1057
+Citroën,C3,2010,Azul,Nafta,5.0,Manual,1.6,Hatchback,141000,pesos,1700000,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1058
+Nissan,Tiida,2013,Dorado,Nafta,5.0,Manual,1.8,Hatchback,96000,pesos,2690000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1059
+Citroën,C4 Cactus,2017,Blanco,Nafta,5.0,Automática,1.2,Suv,58000,pesos,4400000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1060
+Peugeot,208,2021,Gris,Nafta,5.0,Manual,1.6,Hatchback,7400,pesos,3990000,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1061
+Citroën,C3,2020,Plateado,Nafta,5.0,Manual,1.6,Hatchback,38000,pesos,3950000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1062
+Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,133000,pesos,2290000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1063
+Jeep,Compass,2013,Gris,Nafta,5.0,Automática,2.4,Suv,140000,pesos,3900000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1064
+Ford,Focus Iii,2017,Azul,Nafta,5.0,Manual,1.6,Hatchback,46000,pesos,3750000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1065
+Peugeot,308,2012,Gris,Nafta,5.0,Manual,1.6,Hatchback,139000,pesos,2650000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1066
+Toyota,Sw4,2019,Blanco,Diésel,5.0,Automática,2.8,Suv,63000,dólares,58000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1067
+Fiat,Toro,2018,Negro,Diésel,4.0,Manual,2.0,Pick-Up,59000,pesos,5200000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1068
+Toyota,Etios,2018,Gris,Nafta,4.0,Manual,1.5,Sedán,64000,pesos,3800000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1069
+Citroën,C4 Lounge,2017,Blanco,Nafta,4.0,Automática,1.6,Sedán,48000,pesos,3650000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1070
+Peugeot,208,2019,Blanco,Nafta,5.0,Manual,1.6,Hatchback,48000,pesos,4599999,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1071
+Fiat,Punto,2013,Blanco,Nafta,5.0,Manual,1.4,Hatchback,93000,pesos,2280000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1072
+Nissan,Kicks,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,53000,pesos,6489000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1073
+Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,Suv,40000,pesos,4450000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1074
+Volkswagen,Vento,2018,Blanco,Nafta,4.0,Manual,2.0,Sedán,44000,pesos,8490000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1075
+Peugeot,208,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,82000,pesos,3600000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1076
+Jeep,Compass,2018,Negro,Nafta,5.0,Manual,2.4,Suv,60000,pesos,6750000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1077
+Renault,Kwid,2018,Naranja,Nafta,5.0,Manual,1.0,Hatchback,49000,pesos,2789900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1078
+Ford,Ecosport,2014,Negro,Nafta,5.0,Manual,1.6,Suv,79000,pesos,3189900,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1079
+Ford,Ka,2019,Blanco,Nafta/Gnc,4.0,Manual,1.5,Sedán,59000,pesos,3189900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1080
+Chevrolet,Spin,2014,Gris,Nafta,5.0,Automática,1.8,Monovolumen,140000,pesos,2950000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1081
+Fiat,Argo,2022,Blanco,Nafta,5.0,Manual,1.3,Hatchback,2000,pesos,4250000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1082
+Chevrolet,Spin,2016,Blanco,Nafta,5.0,Manual,1.8,Monovolumen,48000,pesos,3450000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1083
+Peugeot,208,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,80000,pesos,4200500,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1084
+Peugeot,208,2019,Gris,Nafta,5.0,Manual,1.6,Hatchback,13000,pesos,4590000,6,Cotizacion en Pesos (Verificar),Nuevo (<20k),1085
+Ford,Focus Iii,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,86000,pesos,4237000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1086
+Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,118000,pesos,2550000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1087
+Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,51700,pesos,11900000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1088
+Ford,Focus Ii,2009,Dorado,Nafta,5.0,Manual,2.0,Hatchback,133000,pesos,2100500,16,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1089
+Peugeot,2008,2020,Marrón,Nafta,5.0,Automática,1.6,Suv,26000,pesos,5650000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1090
+Chevrolet,Onix,2020,Blanco,Nafta,5.0,Manual,1.4,Hatchback,25000,pesos,3500000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1091
+Ford,Focus Iii,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,55000,pesos,5289900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1092
+Peugeot,208,2013,Negro,Nafta,5.0,Manual,1.5,Hatchback,110000,pesos,2350000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1093
+Chevrolet,Onix,2018,Blanco,Nafta,5.0,Automática,1.4,Hatchback,40000,pesos,3800000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1094
+Toyota,Yaris,2021,Blanco,Nafta,5.0,Automática,1.5,Hatchback,19000,pesos,5889900,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1095
+Ram,1500,2022,Gris,Nafta,4.0,Automática,5.7,Pick-Up,8300,dólares,78500,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1096
+Volkswagen,Nivus,2021,Blanco,Nafta,5.0,Automática,1.0,Suv,34000,pesos,7550000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1097
+Renault,Sandero,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,57000,pesos,3590000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1098
+Renault,Duster Oroch,2021,Negro,Nafta,4.0,Manual,2.0,Suv,26000,pesos,6190000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1099
+Renault,Sandero,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,83000,pesos,1610000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1100
+Volkswagen,Gol Trend,2015,Plateado,Nafta,5.0,Manual,1.6,Hatchback,65500,pesos,1960000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1101
+Citroën,C4 Lounge,2014,Plateado,Nafta,4.0,Automática,1.6,Sedán,87000,pesos,2280000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1102
+Volkswagen,Vento,2015,Plateado,Nafta,4.0,Manual,2.0,Sedán,54500,pesos,2100000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1103
+Volkswagen,Up!,2018,Blanco,Nafta,5.0,Manual,1.0,Hatchback,79000,pesos,1650000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1104
+Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,Suv,87000,pesos,3590000,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1105
+Ford,Focus Iii,2014,Plateado,Nafta,4.0,Manual,2.0,Sedán,57000,pesos,2150000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1106
+Honda,Hr-V,2015,Plateado,Nafta,5.0,Automática,1.8,Suv,92000,pesos,3800000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1107
+Volkswagen,Gol,2012,Negro,Nafta,5.0,Manual,1.4,Hatchback,102000,pesos,1550000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1108
+Renault,Clio,2014,Blanco,Nafta,3.0,Manual,1.2,Hatchback,85000,pesos,1595000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1109
+Jeep,Renegade,2017,Gris,Nafta,5.0,Manual,1.8,Suv,52000,pesos,4700000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1110
+Peugeot,2008,2016,Gris,Nafta,5.0,Manual,1.6,Suv,127000,pesos,2800000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1111
+Hyundai,H1,2015,Gris,Diésel,4.0,Automática,2.5,Monovolumen,8900,dólares,42900,10,Cotizacion en Pesos (Verificar),Nuevo (<20k),1112
+Volkswagen,Vento,2017,Gris,Nafta,4.0,Manual,2.0,Sedán,54000,pesos,7500000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1113
+Honda,Cr-V,2016,Negro,Nafta,5.0,Automática,2.4,Suv,126000,pesos,6300000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1114
+Fiat,Palio,2016,Marrón,Nafta,5.0,Manual,1.6,Rural,59000,pesos,3450000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1115
+Ford,Ranger,2018,Gris,Diésel,4.0,Automática,3.2,Pick-Up,70000,pesos,9500500,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1116
+Chevrolet,Cruze,2014,Azul,Nafta,5.0,Automática,1.8,Hatchback,31000,pesos,3890000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1117
+Peugeot,2008,2017,Blanco,Nafta,5.0,Manual,1.6,Suv,78000,pesos,4200000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1118
+Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,129000,pesos,6500000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1119
+Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,pesos,4289900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1120
+Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,52000,pesos,12400000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1121
+Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,pesos,4189900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1122
+Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,115000,pesos,3650000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1123
+Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,pesos,6300000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1124
+Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,pesos,6299000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1125
+Volkswagen,Golf,2016,Plateado,Nafta,5.0,Automática,1.4,Hatchback,126000,dólares,16000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1126
+Renault,Sandero,2018,Negro,Nafta,5.0,Manual,1.6,Hatchback,44000,pesos,2700000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1127
+Fiat,Uno,2016,Blanco,Nafta,5.0,Manual,1.4,Hatchback,87000,pesos,1975000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1128
+Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,114000,pesos,3650000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1129
+Renault,Sandero,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,107000,pesos,1890000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1130
+Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,128900,pesos,6500000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1131
+Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33444,pesos,5200000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1132
+Citroën,Jumper,2014,Blanco,Diésel,4.0,Manual,2.3,Furgón,139000,pesos,4689900,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1133
+Bmw,Serie M,2017,Gris,Nafta,2.0,Automática,3.0,Coupé,11000,dólares,115700,8,Cotizacion en Pesos (Verificar),Nuevo (<20k),1134
+Renault,Logan,2018,Dorado,Nafta,4.0,Manual,1.6,Sedán,42000,pesos,3000000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1135
+Fiat,Palio,2017,Gris,Nafta,5.0,Manual,1.4,Hatchback,37000,pesos,2700500,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1136
+Ford,Focus Ii,2009,Gris,Nafta,4.0,Manual,2.0,Sedán,160000,pesos,2000500,16,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1137
+Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,88000,pesos,2000500,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1138
+Peugeot,207,2012,Gris,Diésel,5.0,Manual,1.4,Hatchback,110000,pesos,2000500,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1139
+Chevrolet,Cruze Ii,2018,Plateado,Nafta,4.0,Manual,1.4,Sedán,63000,pesos,4429800,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1140
+Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,88000,pesos,2450500,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1141
+Volkswagen,Amarok,2015,Gris,Diésel,4.0,Manual,2.0,Pick-Up,138468,pesos,5849000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1142
+Chevrolet,Aveo,2011,Blanco,Nafta,4.0,Manual,1.6,Sedán,153000,pesos,1650000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1143
+Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,95000,pesos,2450500,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1144
+Renault,Captur,2021,Plateado,Nafta,5.0,Manual,2.0,Suv,102000,pesos,5029000,4,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1145
+Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33500,pesos,5200000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1146
+Chevrolet,Celta,2012,Rojo,Nafta,3.0,Manual,1.4,Hatchback,85000,pesos,1850000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1147
+Volkswagen,Gol Trend,2017,Azul,Nafta,3.0,Manual,1.6,Hatchback,45000,pesos,2849900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1148
+Volkswagen,Gol Trend,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,39000,pesos,3489900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1149
+Ford,Ecosport,2016,Blanco,Nafta,5.0,Manual,1.6,Suv,108000,pesos,3350000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1150
+Volkswagen,Passat,2017,Blanco,Nafta,4.0,Automática,2.0,Sedán,59000,pesos,8489900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1151
+Volkswagen,Polo,2018,Azul,Nafta,5.0,Automática,1.6,Hatchback,79000,pesos,3889900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1152
+Chevrolet,Prisma,2018,Plateado,Nafta,4.0,Automática,1.4,Sedán,38000,pesos,3650000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1153
+Peugeot,208,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,79000,pesos,2589900,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1154
+Peugeot,2008,2017,Gris,Nafta,5.0,Manual,1.6,Suv,68000,pesos,3899900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1155
+Nissan,Versa,2019,Blanco,Nafta,4.0,Automática,1.6,Sedán,50000,pesos,3689900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1156
+Volkswagen,Golf,2016,Gris,Nafta,5.0,Automática,1.4,Hatchback,115000,pesos,5100000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1157
+Jeep,Renegade,2018,Verde,Nafta,5.0,Automática,1.8,Suv,69000,pesos,5489900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1158
+Ford,Focus Iii,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,56000,pesos,4190000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1159
+Ford,Ranger,2020,Gris,Diésel,4.0,Automática,3.2,Pick-Up,14000,pesos,8989900,5,Cotizacion en Pesos (Verificar),Nuevo (<20k),1160
+Ford,Ranger,2015,Blanco,Diésel,4.0,Automática,3.2,Pick-Up,169000,pesos,6489900,10,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1161
+Ford,Mondeo,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,60000,pesos,7289900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1162
+Fiat,Fiorino,2016,Blanco,Nafta,3.0,Manual,1.4,Furgón,61000,pesos,2789900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1163
+Fiat,Qubo,2014,Rojo,Nafta/Gnc,5.0,Manual,1.4,Monovolumen,118000,pesos,2489900,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1164
+Audi,Q5,2013,Blanco,Nafta,5.0,Automática,2.0,Suv,153000,pesos,6700000,12,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1165
+Chevrolet,Cruze,2014,Gris,Nafta,4.0,Automática,1.8,Sedán,31000,pesos,3890000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1166
+Baic,X55,2019,Negro,Nafta,5.0,Manual,1.5,Suv,38800,pesos,5780000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1167
+Toyota,Corolla,2016,Blanco,Nafta,4.0,Manual,1.8,Sedán,75000,pesos,4400000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1168
+Toyota,Hilux,2022,Blanco,Diésel,4.0,Automática,TOYOTA 2.8,Pick-Up,1000,dólares,52900,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1169
+Chevrolet,Classic,2014,Plateado,Nafta/Gnc,4.0,Manual,1.4,Sedán,63000,pesos,2158000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1170
+Renault,Kangoo,2013,Plateado,Nafta,3.0,Manual,1.6,Furgón,88000,pesos,2200000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1171
+Citroën,C4,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,79000,pesos,2189900,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1172
+Volkswagen,Polo,2017,Dorado,Nafta,4.0,Automática,1.6,Hatchback,45000,pesos,3689900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1173
+Mercedes-Benz,Clase A,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,115000,dólares,17500,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1174
+Volkswagen,Polo,2017,Dorado,Nafta,5.0,Automática,1.6,Hatchback,45000,pesos,3689900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1175
+Volkswagen,Vento,2016,Negro,Nafta/Gnc,4.0,Automática,2.5,Sedán,172000,pesos,4690000,9,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1176
+Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,Suv,59900,pesos,8990000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1177
+Chevrolet,Tracker,2017,Gris,Nafta,5.0,Automática,1.8,Suv,41000,pesos,4890000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1178
+Peugeot,Partner Patagónica,2015,Blanco,Nafta,4.0,Manual,1.6,Monovolumen,91000,pesos,3200000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1179
+Fiat,500,2012,Negro,Nafta,3.0,Manual,1.4,Hatchback,79000,pesos,2500000,13,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1180
+Fiat,500,2013,Marrón,Nafta,3.0,Manual,1.4,Hatchback,81262,pesos,2950000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1181
+Honda,Hr-V,2016,Violeta,Nafta,5.0,Automática,1.8,Suv,60000,pesos,6290000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1182
+Renault,Sandero Stepway,2020,Blanco,Nafta,5.0,Automática,1.6,Hatchback,62850,pesos,3900000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1183
+Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Manual,2.4,Suv,90000,pesos,7880000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1184
+Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,Suv,48711,pesos,10900000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1185
+Ford,Ka,2013,Gris,Nafta,3.0,Manual,1.0,Hatchback,70000,pesos,1750000,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1186
+Renault,Duster,2017,Blanco,Nafta,5.0,Manual,1.6,Suv,60000,pesos,4250000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1187
+Peugeot,Partner,2016,Gris,Diésel,4.0,Manual,1.6,Furgón,74000,pesos,3520000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1188
+Volkswagen,Amarok,2019,Azul,Diésel,4.0,Automática,2.0,Pick-Up,69000,pesos,9450000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1189
+Citroën,C-Elysée,2019,Azul,Diésel,4.0,Manual,1.6,Sedán,53000,pesos,3650000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1190
+Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,Suv,60000,pesos,4779900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1191
+Fiat,Argo,2019,Gris,Nafta,5.0,Manual,1.3,Hatchback,18000,pesos,3490000,6,Cotizacion en Pesos (Verificar),Nuevo (<20k),1192
+Nissan,Sentra,2014,Negro,Nafta,4.0,Automática,2.0,Sedán,96000,pesos,3200000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1193
+Fiat,Cronos,2019,Blanco,Nafta,4.0,Manual,1.8,Sedán,86000,pesos,3490000,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1194
+Peugeot,408,2013,Gris,Diésel,4.0,Manual,1.6,Sedán,89000,pesos,2689900,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1195
+Chevrolet,Spin,2016,Gris,Nafta/Gnc,5.0,Manual,1.8,Monovolumen,98000,pesos,3489900,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1196
+Nissan,Kicks,2018,Plateado,Nafta,5.0,Automática,1.6,Hatchback,59000,pesos,5389900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1197
+Citroën,Aircross,2017,Gris,Nafta,5.0,Manual,1.5,Hatchback,61389,pesos,3348000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1198
+Chevrolet,Cruze,2014,Gris,Nafta,4.0,Manual,1.8,Sedán,61389,pesos,3402000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1199
+Volkswagen,Suran Cross,2016,Gris,Nafta,5.0,Manual,1.6,Monovolumen,39000,pesos,3990000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1200
+Honda,Cr-V,2010,Celeste,Nafta,5.0,Automática,2.4,Suv,138000,dólares,16500,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1201
+Volkswagen,Saveiro,2020,Blanco,Nafta,2.0,Manual,1.6,Pick-Up,35000,pesos,4589900,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1202
+Honda,Fit,2013,Gris,Nafta,5.0,Manual,1.5,Hatchback,110000,pesos,3539000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1203
+Ford,Focus Iii,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,56100,pesos,3726000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1204
+Ford,Fiesta Kinetic Design,2017,Celeste,Nafta,5.0,Manual,1.6,Hatchback,43000,pesos,3700000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1205
+Fiat,Toro,2017,Rojo,Diésel,4.0,Automática,2.0,Pick-Up,118000,pesos,5900000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1206
+Volkswagen,Gol Trend,2009,Plateado,Nafta,5.0,Manual,1.6,Hatchback,119000,pesos,1750000,16,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1207
+Bmw,X5,2000,Desconocido,Nafta,5.0,Manual,4.4,Suv,132000,dólares,16000,25,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1208
+Ford,Ecosport,2015,Plateado,Nafta,5.0,Manual,1.6,Suv,51834,pesos,3769200,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1209
+Toyota,Corolla,2011,Gris,Nafta,4.0,Automática,1.8,Sedán,167000,pesos,2930000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1210
+Toyota,Hilux,2022,Negro,Diésel,4.0,Desconocido,2.8tdi 223cv,Pick-Up,4000,dólares,60000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1211
+Chevrolet,Celta,2012,Rojo,Nafta,3.0,Manual,1.4,Hatchback,101000,pesos,1900000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1212
+Bmw,Serie 4,2022,Negro,Nafta,2.0,Automática,2.0,Coupé,21000,dólares,95000,3,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1213
+Chevrolet,Onix,2018,Gris,Nafta/Gnc,5.0,Manual,1.4,Hatchback,62300,pesos,3100000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1214
+Ford,Fiesta Kinetic Design,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,44607,pesos,3780000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1215
+Peugeot,308,2012,Azul,Nafta,5.0,Manual,2.0,Hatchback,130000,pesos,2850000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1216
+Citroën,C3 Picasso,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,112000,pesos,2500000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1217
+Fiat,Palio,2011,Gris,Nafta,5.0,Manual,1.6,Rural,190000,pesos,1900000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1218
+Toyota,Sw4,2020,Gris,Diésel,5.0,Automática,2.8,Suv,71000,dólares,47700,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1219
+Ram,1500,2022,Rojo,Nafta,4.0,Automática,5.7,Pick-Up,18000,dólares,64900,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1220
+Volkswagen,Taos,2022,Gris,Nafta,5.0,Automática,1.4,Suv,1111,pesos,7970000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1221
+Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Automática,1.6,Suv,23000,pesos,6590000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1222
+Ford,Focus Iii,2017,Azul,Nafta,4.0,Manual,2.0,Sedán,79000,pesos,4089900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1223
+Ford,Ecosport,2020,Blanco,Nafta,5.0,Automática,1.5,Suv,39000,pesos,4989900,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1224
+Ford,Fiesta Kinetic Design,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,79000,pesos,2649900,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1225
+Volkswagen,Passat,2017,Blanco,Nafta,4.0,Automática,2.0,Sedán,59000,pesos,8459900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1226
+Fiat,Palio,2015,Negro,Nafta/Gnc,5.0,Manual,1.4,Hatchback,64000,pesos,2350000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1227
+Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Manual,2.4,Suv,90000,pesos,7890000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1228
+Jeep,Renegade,2018,Rojo,Nafta,5.0,Automática,1.8,Suv,57000,pesos,5990000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1229
+Bmw,Serie 1,2010,Plateado,Nafta,3.0,Manual,2.0,Hatchback,125000,dólares,12500,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1230
+Toyota,Corolla,2018,Desconocido,Nafta,4.0,Automática,1.8,Sedán,16500,pesos,6300000,7,Cotizacion en Pesos (Verificar),Nuevo (<20k),1231
+Volkswagen,Amarok,2017,Blanco,Diésel,2.0,Manual,2.0,Pick-Up,115000,pesos,7489000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1232
+Citroën,C4 Cactus,2018,Violeta,Nafta,5.0,Automática,1.2,Suv,46000,pesos,4400000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1233
+Renault,Sandero,2019,Negro,Nafta,5.0,Manual,1.6,Hatchback,58000,pesos,2510000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1234
+Ford,Territory,2021,Blanco,Nafta,5.0,Automática,1.5,Suv,15000,pesos,9300000,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1235
+Chevrolet,Onix,2017,Rojo,Nafta/Gnc,5.0,Manual,1.4,Hatchback,60000,pesos,3499900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1236
+Volkswagen,Voyage,2018,Azul,Nafta,4.0,Manual,1.6,Sedán,38000,pesos,2900000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1237
+Toyota,Yaris,2020,Blanco,Nafta,5.0,Manual,1.5,Hatchback,12000,pesos,5900000,5,Cotizacion en Pesos (Verificar),Nuevo (<20k),1238
+Volkswagen,Gol Trend,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,39000,pesos,3459900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1239
+Renault,Duster,2016,Blanco,Nafta,5.0,Manual,1.6,Suv,76000,pesos,3600000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1240
+Peugeot,208,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,58000,pesos,3799000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1241
+Renault,Duster,2015,Negro,Nafta/Gnc,5.0,Manual,2.0,Suv,89400,pesos,4250000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1242
+Ford,Fiesta Kinetic Design,2015,Negro,Nafta,5.0,Manual,1.6,Hatchback,89800,pesos,2880000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1243
+Honda,Fit,2011,Negro,Nafta,5.0,Manual,1.4,Hatchback,137000,pesos,2200000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1244
+Mitsubishi,L200,2016,Gris,Diésel,4.0,Manual,3.2,Pick-Up,181800,pesos,6490000,9,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1245
+Citroën,C4 Spacetourer,2019,Blanco,Nafta,5.0,Automática,1.6,Monovolumen,60000,pesos,7190000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1246
+Volkswagen,Saveiro,2020,Blanco,Nafta,2.0,Manual,1.6,Pick-Up,37000,pesos,4589900,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1247
+Citroën,Ds4,2013,Blanco,Nafta,5.0,Automática,1.6,Hatchback,79100,pesos,3489900,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1248
+Toyota,Hilux,2017,Blanco,Diésel,4.0,Automática,2.8,Pick-Up,170000,pesos,8600000,8,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1249
+Mercedes-Benz,Clase C,2008,Plateado,Nafta,4.0,Automática,2.2,Sedán,250000,dólares,10599,17,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1250
+Nissan,Sentra,2020,Blanco,Nafta,4.0,Automática,2.0,Sedán,30000,pesos,7950000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1251
+Peugeot,308,2017,Azul,Nafta,5.0,Manual,1.6,Hatchback,42000,dólares,28500,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1252
+Peugeot,Expert,2014,Blanco,Diésel,3.0,Manual,2.0,Monovolumen,130000,pesos,3990000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1253
+Ford,Ecosport,2015,Plateado,Nafta,5.0,Manual,1.6,Suv,51000,pesos,3490000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1254
+Honda,Fit,2013,Blanco,Nafta,5.0,Manual,1.5,Hatchback,82012,pesos,3564000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1255
+Peugeot,408,2013,Desconocido,Nafta,4.0,Manual,2.0,Sedán,129400,pesos,2890000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1256
+Volkswagen,Vento,2011,Gris,Nafta,4.0,Automática,2.5,Sedán,89000,pesos,3449900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1257
+Volkswagen,Polo,2018,Gris,Nafta,5.0,Automática,1.6,Hatchback,109000,pesos,3789900,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1258
+Mercedes-Benz,Clase Gla,2015,Negro,Nafta,5.0,Automática,1.6,Suv,86000,dólares,34990,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1259
+Volkswagen,Amarok,2018,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,79000,pesos,7899900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1260
+Honda,Fit,2013,Blanco,Nafta,5.0,Manual,1.5,Hatchback,82000,pesos,3150000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1261
+Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,84000,pesos,2950000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1262
+Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,Suv,62000,pesos,4459900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1263
+Chevrolet,Cruze,2014,Plateado,Nafta,4.0,Manual,1.8,Sedán,61000,pesos,3150000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1264
+Volkswagen,Vento,2012,Plateado,Nafta,4.0,Automática,2.0,Sedán,196000,dólares,13499,13,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1265
+Volkswagen,Polo,2017,Gris,Nafta,4.0,Manual,1.6,Hatchback,49000,pesos,3485000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1266
+Renault,Kwid,2020,Rojo,Nafta,5.0,Manual,1.0,Hatchback,39000,pesos,3189900,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1267
+Renault,Mégane Iii,2016,Azul,Nafta,4.0,Manual,1.6,Hatchback,69000,pesos,3289900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1268
+Toyota,Corolla Cross,2022,Negro,Híbrido/Nafta,5.0,Automática,1.8,Suv,2000,pesos,12490000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1269
+Peugeot,308,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,79000,pesos,2689900,13,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1270
+Toyota,Hilux,2020,Plateado,Diésel,4.0,Automática,2.8,Pick-Up,57700,dólares,35499,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1271
+Hyundai,Tucson,2011,Plateado,Nafta,5.0,Manual,2.0,Suv,137000,pesos,3489900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1272
+Ford,Focus Iii,2015,Blanco,Nafta,5.0,Automática,2.0,Hatchback,79000,pesos,3589900,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1273
+Fiat,500,2014,Azul,Nafta,3.0,Manual,1.4,Hatchback,69000,pesos,2989900,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1274
+Chevrolet,Trailblazer,2021,Gris,Diésel,5.0,Automática,2.8,Suv,23000,pesos,13949900,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1275
+Chevrolet,Onix,2016,Rojo,Nafta/Gnc,5.0,Automática,1.4,Hatchback,60000,pesos,3189900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1276
+Subaru,Xv,2011,Blanco,Nafta,5.0,Automática,2.0,Hatchback,204000,pesos,2500000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1277
+Fiat,Uno,2010,Rojo,Nafta,5.0,Manual,,Desconocido,128000,pesos,1760000,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1278
+Toyota,Hilux,2019,Blanco,Diésel,4.0,Automática,2.8,Pick-Up,64000,pesos,12489000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1279
+Jeep,Renegade,2017,Gris,Nafta,5.0,Automática,1.8,Suv,62000,pesos,5889000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1280
+Toyota,Rav4,2010,Negro,Nafta,5.0,Automática,2.4,Suv,98000,pesos,3700000,15,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1281
+Chevrolet,Prisma,2017,Negro,Nafta/Gnc,4.0,Manual,1.4,Sedán,69000,pesos,3089900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1282
+Audi,A1,2016,Gris,Nafta,3.0,Automática,1.4,Hatchback,46000,pesos,6489900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1283
+Audi,A3 Sportback,2011,Blanco,Nafta,5.0,Automática,2.0,Hatchback,89000,pesos,4389900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1284
+Peugeot,308,2016,Blanco,Nafta,5.0,Manual,1.6,Hatchback,161000,pesos,2800000,9,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1285
+Peugeot,208,2022,Negro,Nafta,5.0,Manual,1.6,Hatchback,500,pesos,4630000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1286
+Toyota,Sw4,2011,Negro,Diésel,5.0,Manual,3.0 TD,Suv,140000,dólares,26990,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1287
+Volkswagen,Gol Trend,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,130000,dólares,8000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1288
+Audi,A4,2011,Gris,Nafta,4.0,Automática,2.0,Sedán,99100,pesos,3989900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1289
+Renault,Logan,2016,Desconocido,Nafta,4.0,Manual,1.6,Sedán,37300,pesos,3050000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1290
+Honda,Hr-V,2017,Blanco,Nafta,5.0,Automática,1.8,Suv,77000,pesos,7150000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1291
+Volkswagen,Suran,2015,Plateado,Nafta,5.0,Manual,1.6,Monovolumen,65000,pesos,3450500,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1292
+Ford,Fiesta Kinetic Design,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,44000,pesos,3500000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1293
+Volkswagen,Amarok,2019,Dorado,Diésel,4.0,Automática,2.0,Pick-Up,88000,pesos,8500000,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1294
+Chevrolet,Celta,2013,Desconocido,Nafta,3.0,Manual,1.4,Hatchback,109000,pesos,1690000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1295
+Peugeot,408,2012,Gris,Nafta,4.0,Automática,1.6,Sedán,95000,pesos,2750000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1296
+Peugeot,3008,2020,Gris,Nafta,5.0,Automática,1.6,Suv,45800,pesos,10500000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1297
+Chevrolet,Onix,2017,Negro,Nafta,5.0,Manual,1.4,Hatchback,112000,pesos,3250000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1298
+Ford,Fiesta Kinetic Design,2013,Violeta,Nafta,5.0,Manual,1.6,Hatchback,79000,pesos,2649900,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1299
+Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,51600,pesos,11900000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1300
+Toyota,Corolla,2019,Marrón,Nafta,4.0,Automática,1.8,Sedán,49000,pesos,6690000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1301
+Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,Suv,48700,pesos,10900000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1302
+Volkswagen,Saveiro,2019,Gris,Nafta,2.0,Manual,1.6,Pick-Up,86000,pesos,5099999,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1303
+Citroën,C3,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,96400,pesos,3290000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1304
+Ford,Focus Iii,2017,Rojo,Nafta,5.0,Automática,2.0,Hatchback,26000,pesos,5390000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1305
+Citroën,C3,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,119000,pesos,2550000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1306
+Peugeot,308,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,74000,pesos,2990000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1307
+Volkswagen,Gol Trend,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,55000,pesos,3300000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1308
+Chevrolet,Tracker,2017,Gris,Nafta,5.0,Automática,1.8,Suv,41000,pesos,4690000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1309
+Renault,Duster,2019,Plateado,Nafta,5.0,Manual,1.6,Suv,59000,pesos,5099999,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1310
+Volkswagen,Gol Trend,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,55000,pesos,3299999,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1311
+Ford,Ranger,2021,Gris,Diésel,4.0,Automática,3.2,Pick-Up,61000,pesos,11850000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1312
+Chevrolet,S10,2016,Blanco,Diésel,4.0,Manual,2.8,Pick-Up,152000,pesos,4900000,9,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1313
+Toyota,Corolla,2021,Negro,Nafta,4.0,Automática,1.8,Sedán,29200,pesos,7300000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1314
+Renault,Sandero,2020,Blanco,Nafta,5.0,Automática,1.6,Hatchback,62400,pesos,3900000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1315
+Peugeot,5008,2018,Gris,Nafta,5.0,Manual,1.6,Monovolumen,52000,pesos,8500000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1316
+Mercedes-Benz,Clase C,2009,Azul,Nafta,4.0,Automática,3.0,Sedán,105000,dólares,14500,16,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1317
+Mercedes-Benz,Clase Gla,2017,Gris,Nafta,5.0,Automática,1.6,Suv,60000,dólares,43990,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1318
+Ford,Fiesta Kinetic Design,2019,Plateado,Nafta/Gnc,5.0,Manual,1.6,Hatchback,38000,pesos,4000000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1319
+Volkswagen,Up!,2016,Gris,Nafta,3.0,Manual,1.0,Hatchback,25000,pesos,3000000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1320
+Ram,1500,2022,Gris,Nafta,4.0,Automática,5.7,Pick-Up,8000,dólares,77500,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1321
+Jeep,Renegade,2020,Blanco,Nafta,5.0,Automática,1.8,Suv,40000,pesos,7390000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1322
+Bmw,Serie 2,2021,Celeste,Nafta,2.0,Automática,3.0,Coupé,2500,dólares,89990,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1323
+Volkswagen,Vento,2018,Blanco,Nafta,4.0,Manual,2.0,Sedán,44000,pesos,8500000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1324
+Volkswagen,Golf,2016,Blanco,Nafta,5.0,Automática,2.0,Hatchback,41100,dólares,33999,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1325
+Bmw,Serie 3,2009,Gris,Nafta,2.0,Manual,2.5,Coupé,79700,pesos,5480000,16,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1326
+Citroën,C4 Lounge,2018,Blanco,Diésel,4.0,Manual,1.6,Sedán,48000,pesos,4400000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1327
+Volkswagen,Amarok,2018,Plateado,Diésel,4.0,Automática,2.0,Pick-Up,50000,pesos,8250000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1328
+Volkswagen,Sharan,2014,Desconocido,Nafta,5.0,Automática,2.0,Monovolumen,66000,pesos,7500000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1329
+Volkswagen,Vento,2015,Blanco,Nafta,4.0,Automática,2.5,Sedán,98000,pesos,5800000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1330
+Citroën,Ds3,2012,Desconocido,Nafta,3.0,Manual,1.6,Hatchback,95000,pesos,2750000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1331
+Chevrolet,Prisma,2013,Celeste,Nafta,4.0,Manual,1.4,Sedán,64000,pesos,2700000,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1332
+Mercedes-Benz,Sprinter,2018,Blanco,Diésel,2.0,Manual,2.1,Minivan,242000,pesos,9250000,7,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1333
+Renault,Fluence,2013,Dorado,Nafta,4.0,Manual,1.6,Sedán,45000,pesos,2440000,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1334
+Renault,Clio,2016,Gris,Nafta,5.0,Manual,1.2,Hatchback,89100,pesos,2189900,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1335
+Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,85400,pesos,2977000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1336
+Volkswagen,Polo,2021,Blanco,Nafta,5.0,Automática,1.4,Hatchback,10900,dólares,26990,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1337
+Ford,Ranger,2007,Blanco,Diésel,2.0,Manual,3.0,Pick-Up,178000,pesos,3150000,18,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1338
+Volkswagen,Gol Trend,2016,Blanco,Nafta,5.0,Manual,1.6,Hatchback,96133,pesos,3000000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1339
+Citroën,C4 Lounge,2016,Gris,Nafta,4.0,Automática,1.6,Sedán,76916,pesos,3000000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1340
+Fiat,Toro,2017,Plateado,Diésel,4.0,Automática,2.0,Pick-Up,108933,pesos,6000000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1341
+Chery,Tiggo 3,2017,Gris,Nafta,5.0,Manual,1.6,Suv,71239,pesos,3300000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1342
+Renault,Fluence,2016,Blanco,Nafta,4.0,Manual,1.6,Sedán,98700,pesos,2600000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1343
+Citroën,Jumpy,2022,Desconocido,Diésel,3.0,Manual,1.6,Furgón,1000,pesos,8700000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1344
+Ford,Ka,2018,Rojo,Nafta,5.0,Manual,1.5,Hatchback,37000,pesos,3280000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1345
+Renault,Kangoo,2021,Gris,Nafta,3.0,Manual,1.6,Furgón,23000,pesos,4690000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1346
+Suzuki,Swift,2009,Gris,Nafta,5.0,Manual,1.5,Hatchback,190000,pesos,1895000,16,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1347
+Ford,Focus Iii,2017,Blanco,Nafta,5.0,Automática,2.0,Hatchback,44500,pesos,4350000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1348
+Toyota,Hilux,2021,Gris,Diésel,4.0,Automática,2.8,Pick-Up,28000,pesos,11200000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1349
+Volkswagen,Taos,2022,Gris,Nafta,5.0,Automática,1.4,Suv,1011,pesos,11890000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1350
+Renault,Sandero,2020,Gris,Nafta,5.0,Manual,1.6,Hatchback,22000,pesos,4200000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1351
+Hyundai,Creta,2019,Blanco,Nafta,5.0,Automática,1.6,Suv,55000,pesos,5890000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1352
+Ford,Focus Iii,2018,Blanco,Nafta,4.0,Manual,1.6,Sedán,46000,pesos,4200000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1353
+Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,Suv,60000,pesos,8990000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1354
+Bmw,Serie 1,2008,Gris,Nafta,5.0,Manual,1.6,Hatchback,121000,pesos,3000000,17,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1355
+Ram,1500,2022,Blanco,Nafta,4.0,Automática,5.7,Pick-Up,4700,dólares,77500,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1356
+Renault,Captur,2018,Naranja,Nafta,5.0,Manual,2.0,Suv,61000,pesos,4690000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1357
+Volkswagen,Golf,2019,Blanco,Nafta,5.0,Automática,2.0,Hatchback,58000,pesos,11195000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1358
+Jeep,Renegade,2018,Azul,Nafta,5.0,Automática,1.8,Suv,62000,pesos,5990000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1359
+Volkswagen,Amarok,2015,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,115000,pesos,5450500,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1360
+Ford,F-100,1997,Gris,Diésel,2.0,Manual,2.5,Pick-Up,335000,dólares,16300,28,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1361
+Honda,Fit,2019,Blanco,Nafta,5.0,Automática,1.5,Hatchback,28000,pesos,6190000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1362
+Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Automática,2.4,Suv,90000,pesos,7890000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1363
+Jeep,Compass,2020,Gris,Nafta,5.0,Manual,2.4,Suv,6000,pesos,9590000,5,Cotizacion en Pesos (Verificar),Nuevo (<20k),1364
+Toyota,Corolla,2022,Blanco,Híbrido/Nafta,4.0,Automática,1.8,Sedán,1111,dólares,36990,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1365
+Ford,Territory,2022,Dorado,Nafta,5.0,Automática,1.5,Suv,1000,pesos,10400000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1366
+Renault,Clio,2012,Negro,Nafta,5.0,Manual,1.2,Hatchback,122000,pesos,1950000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1367
+Volkswagen,Amarok,2022,Blanco,Diésel,4.0,Automática,3.0,Pick-Up,500,pesos,14299000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1368
+Fiat,500X,2019,Gris,Nafta,5.0,Automática,1.4,Suv,60900,dólares,26500,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1369
+Renault,Captur,2019,Blanco,Nafta,5.0,Automática,1.6,Suv,73000,pesos,4990000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1370
+Kia,Cerato,2020,Blanco,Nafta,4.0,Automática,2.0,Sedán,86000,pesos,5990000,5,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1371
+Peugeot,208,2015,Blanco,Nafta,5.0,Manual,1.5,Hatchback,71000,pesos,2689000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1372
+Renault,Kangoo,2011,Gris,Nafta,4.0,Automática,1.6,Monovolumen,39000,pesos,2700000,14,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1373
+Kia,Soul,2016,Azul,Nafta,5.0,Automática,1.6,Suv,126000,dólares,13900,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1374
+Volkswagen,Amarok,2014,Gris,Diésel,4.0,Automática,2.0,Pick-Up,125000,pesos,7040000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1375
+Volkswagen,Voyage,2017,Gris,Nafta,4.0,Manual,1.6,Sedán,83000,pesos,3400000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1376
+Chevrolet,Prisma,2015,Blanco,Nafta,4.0,Manual,1.4,Sedán,126000,pesos,2900000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1377
+Chevrolet,Sonic,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,102000,pesos,2500000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1378
+Volkswagen,Bora,2011,Negro,Nafta,4.0,Manual,2.0,Sedán,168200,pesos,2090000,14,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1379
+Chevrolet,Tracker,2017,Plateado,Nafta,5.0,Automática,1.8,Suv,45100,pesos,4700000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1380
+Ford,Ranger Raptor,2022,Blanco,Diésel,4.0,Automática,2.0,Pick-Up,1111,dólares,65900,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1381
+Ram,1500,2022,Blanco,Nafta,4.0,Automática,5.7,Pick-Up,4700,dólares,77490,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1382
+Ford,Focus Iii,2017,Gris,Nafta,5.0,Automática,2.0,Hatchback,75000,dólares,16500,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1383
+Volkswagen,Suran Cross,2014,Desconocido,Nafta,5.0,Manual,1.6,Monovolumen,120000,pesos,2990000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1384
+Peugeot,308,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,136000,pesos,2850000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1385
+Peugeot,2008,2019,Blanco,Nafta,5.0,Manual,1.6,Suv,29530,pesos,5050000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1386
+Chevrolet,Onix,2018,Gris,Nafta,5.0,Manual,1.4,Hatchback,28300,pesos,3800000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1387
+Honda,Hr-V,2018,Gris,Nafta,5.0,Automática,1.8,Suv,99700,pesos,6700000,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1388
+Volkswagen,T-Cross,2019,Rojo,Nafta,5.0,Manual,1.6,Suv,69100,pesos,4989900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1389
+Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Manual,1.6,Suv,30000,pesos,6290000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1390
+Volkswagen,Amarok,2018,Azul,Diésel,4.0,Manual,2.0,Pick-Up,99100,pesos,7789900,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1391
+Mercedes-Benz,Clase A,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,59000,dólares,31000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1392
+Chevrolet,S10,2016,Blanco,Diésel,4.0,Manual,2.8,Pick-Up,143000,pesos,5890000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1393
+Volkswagen,Amarok,2018,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,79000,pesos,7889900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1394
+Hyundai,Tucson,2011,Gris,Nafta,5.0,Manual,2.0,Suv,137000,pesos,3489900,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1395
+Bmw,Serie 2,2021,Azul,Nafta,2.0,Automática,2.0,Coupé,4100,dólares,79000,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1396
+Mercedes-Benz,Clase A,2017,Blanco,Nafta,5.0,Automática,2.0,Hatchback,12000,dólares,46999,8,Cotizacion en Pesos (Verificar),Nuevo (<20k),1397
+Fiat,Toro,2017,Plateado,Diésel,4.0,Manual,2.0,Pick-Up,65000,pesos,4490000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1398
+Toyota,Corolla,2019,Blanco,Nafta,4.0,Automática,1.8,Sedán,31000,pesos,6200000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1399
+Ford,F-150,2020,Blanco,Diésel,4.0,Automática,2.0,Pick-Up,52900,dólares,128000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1400
+Bmw,Serie 2,2021,Azul,Nafta,2.0,Automática,3.0,Coupé,2500,dólares,90000,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1401
+Audi,S3,2018,Azul,Nafta,3.0,Automática,2.0,Hatchback,25500,dólares,68000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1402
+Audi,R8 Coupé,2011,Blanco,Nafta,2.0,Automática,5.2,Coupé,19200,dólares,235000,14,Cotizacion en Pesos (Verificar),Nuevo (<20k),1403
+Citroën,C4 Lounge,2016,Blanco,Nafta,4.0,Automática,1.6,Sedán,100000,pesos,3280000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1404
+Honda,Hr-V,2020,Blanco,Nafta,5.0,Automática,1.8,Suv,20000,dólares,30000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1405
+Toyota,Corolla,2019,Blanco,Nafta,4.0,Automática,1.8,Sedán,31000,pesos,6199999,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1406
+Volkswagen,Vento,2014,Gris,Nafta,4.0,Automática,2.0,Sedán,119000,dólares,15000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1407
+Chevrolet,Tracker,2017,Blanco,Nafta,5.0,Manual,1.8,Suv,47000,pesos,4739600,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1408
+Ford,Focus Iii,2019,Blanco,Nafta/Gnc,4.0,Manual,1.6,Sedán,57000,pesos,4150000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1409
+Renault,Sandero,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,120000,pesos,2550000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1410
+Volkswagen,Gol Trend,2016,Gris,Nafta,5.0,Manual,1.6,Hatchback,82000,pesos,2800000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1411
+Chevrolet,Onix,2015,Gris,Nafta,5.0,Automática,1.4,Hatchback,67000,pesos,3150000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1412
+Bmw,Serie 3,2008,Negro,Nafta,2.0,Manual,3.0,Coupé,91400,dólares,24800,17,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1413
+Volkswagen,Gol,2014,Gris,Nafta,5.0,Manual,1.4,Hatchback,43000,pesos,2050000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1414
+Honda,Cr-V,2016,Negro,Nafta,5.0,Automática,2.4,Suv,62000,dólares,34900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1415
+Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,Suv,48500,pesos,10900000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1416
+Chevrolet,Meriva,2012,Gris,Nafta/Gnc,5.0,Manual,1.8,Monovolumen,98000,pesos,2050000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1417
+Jeep,Compass,2019,Blanco,Nafta,5.0,Automática,2.4,Suv,36000,pesos,8300000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1418
+Chevrolet,Onix,2016,Rojo,Nafta,5.0,Manual,1.4,Hatchback,60000,pesos,3189900,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1419
+Jeep,Compass,2019,Blanco,Nafta,5.0,Manual,2.4,Suv,36000,pesos,8300000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1420
+Chevrolet,Corsa,2008,Plateado,Nafta,3.0,Manual,1.6,Hatchback,150000,pesos,1200000,17,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1421
+Ford,Territory,2022,Blanco,Nafta,5.0,Automática,1.5,Suv,1000,pesos,11400000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1422
+Peugeot,308,2014,Gris,Nafta,5.0,Automática,1.6,Hatchback,118000,pesos,3600000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1423
+Citroën,C4 Cactus,2018,Negro,Nafta,5.0,Automática,1.2,Suv,39600,pesos,4700000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1424
+Chevrolet,Prisma,2016,Negro,Nafta,4.0,Manual,1.4,Sedán,70943,pesos,2800000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1425
+Renault,Captur,2017,Blanco,Nafta,5.0,Automática,2.0,Suv,42800,pesos,4600000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1426
+Citroën,Berlingo,2015,Gris,Diésel,5.0,Manual,1.6,Monovolumen,134545,pesos,3800000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1427
+Mini,Cooper Countryman,2014,Azul,Nafta,5.0,Automática,1.6,Hatchback,119000,dólares,19500,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1428
+Ford,Ranger,2020,Blanco,Diésel,4.0,Manual,2.2,Pick-Up,127000,pesos,6646000,5,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1429
+Chevrolet,Prisma,2019,Negro,Nafta/Gnc,4.0,Manual,1.4,Sedán,83000,pesos,3355000,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1430
+Ford,Ka,2016,Rojo,Nafta,5.0,Manual,1.5,Hatchback,61000,pesos,2800000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1431
+Volkswagen,Vento,2018,Gris,Nafta,4.0,Manual,2.0,Sedán,120000,pesos,7100000,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1432
+Chevrolet,Celta,2014,Negro,Nafta/Gnc,5.0,Manual,1.4,Hatchback,69000,pesos,2165000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1433
+Volkswagen,Tiguan,2012,Gris,Nafta,5.0,Automática,2.0,Suv,148000,pesos,4890000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1434
+Toyota,Sw4,2016,Blanco,Diésel,5.0,Automática,2.8,Suv,73000,dólares,41990,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1435
+Ram,1500,2017,Gris,Nafta,4.0,Automática,5.7,Pick-Up,79100,pesos,11989900,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1436
+Volvo,C30,2008,Negro,Nafta,5.0,Manual,2.0,Hatchback,173000,dólares,8900,17,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1437
+Ds,Ds3 Crossback,2021,Azul,Nafta,5.0,Automática,1.2,Hatchback,15100,pesos,10359900,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1438
+Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,Suv,48750,pesos,10900000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1439
+Volvo,960,1995,Gris,Nafta,5.0,Manual,3.0,Rural,125000,dólares,10000,30,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1440
+Ds,Ds3 Crossback,2021,Verde,Nafta,5.0,Automática,1.2,Hatchback,15000,pesos,10359900,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1441
+Volkswagen,Amarok,2016,Azul,Diésel,4.0,Manual,2.0,Pick-Up,215000,dólares,23000,9,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1442
+Ford,Ka,2011,Desconocido,Nafta,3.0,Manual,1.6,Hatchback,97000,pesos,1698000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1443
+Volkswagen,Amarok,2016,Negro,Diésel,4.0,Manual,2.0,Pick-Up,135000,pesos,7390000,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1444
+Volkswagen,Tiguan,2009,Plateado,Diésel,5.0,Automática,2.0,Suv,170000,dólares,13500,16,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1445
+Ford,Territory,2022,Blanco,Nafta,5.0,Automática,1.5,Suv,10897,pesos,9300000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1446
+Ford,Ecosport,2017,Gris,Nafta,5.0,Manual,1.6,Suv,74000,pesos,3790000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1447
+Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Automática,1.6,Suv,88000,pesos,5890000,6,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1448
+Jeep,Patriot,2012,Negro,Nafta,5.0,Manual,2.0,Suv,119000,dólares,15990,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1449
+Volkswagen,Nivus,2021,Gris,Nafta,5.0,Automática,1.0,Suv,10000,dólares,24500,4,Cotizacion en Pesos (Verificar),Nuevo (<20k),1450
+Volkswagen,T-Cross,2019,Violeta,Nafta,5.0,Manual,1.6,Suv,69000,pesos,4989900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1451
+Toyota,Rav4,2017,Gris,Nafta,5.0,Automática,2.5,Suv,83100,pesos,9900000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1452
+Toyota,Corolla,2021,Negro,Nafta,4.0,Automática,1.8,Sedán,29120,pesos,7250000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1453
+Renault,Duster,2018,Blanco,Nafta/Gnc,5.0,Manual,1.6,Suv,111000,pesos,4100000,7,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1454
+Chevrolet,Cruze Ii,2016,Blanco,Nafta,4.0,Manual,1.4,Sedán,63000,pesos,4100000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1455
+Jeep,Compass,2022,Plateado,Nafta,5.0,Automática,1.3,Suv,1800,pesos,9900000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1456
+Mercedes-Benz,Sprinter,2015,Blanco,Diésel,2.0,Manual,2.1,Furgón,179100,pesos,6589900,10,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1457
+Bmw,Serie 3,2008,Gris,Nafta,4.0,Manual,2.0,Sedán,73000,dólares,14500,17,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1458
+Renault,Fluence,2011,Gris,Nafta,4.0,Manual,1.6,Sedán,89000,pesos,2400000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1459
+Jeep,Compass,2017,Blanco,Nafta,5.0,Automática,2.4,Suv,41000,dólares,30990,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1460
+Audi,R8 Coupé,2020,Azul,Nafta,2.0,Automática,5.2,Coupé,3000,dólares,430000,5,Cotizacion en Pesos (Verificar),Nuevo (<20k),1461
+Mitsubishi,Outlander,2012,Negro,Nafta,5.0,Automática,2.4,Suv,168000,dólares,13499,13,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1462
+Citroën,Ds4,2012,Gris,Nafta,5.0,Automática,1.6,Hatchback,86000,pesos,3600000,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1463
+Chevrolet,Prisma,2017,Blanco,Nafta,4.0,Manual,1.4,Sedán,121000,pesos,3350000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1464
+Renault,Duster,2013,Gris,Nafta,5.0,Manual,1.6,Suv,106000,pesos,2650000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1465
+Renault,Duster Oroch,2019,Blanco,Nafta,5.0,Manual,2.0,Suv,28000,pesos,5350000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1466
+Peugeot,504,1996,Desconocido,Diésel,4.0,Manual,2.3,Sedán,99000,pesos,1950000,29,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1467
+Toyota,Corolla,2017,Plateado,Nafta,4.0,Automática,1.8,Sedán,55000,pesos,5650000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1468
+Citroën,Aircross,2018,Blanco,Nafta,5.0,Automática,1.6,Hatchback,67000,pesos,3600000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1469
+Chevrolet,Tracker,2022,Blanco,Nafta,5.0,Manual,1.2,Suv,1400,pesos,6790000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1470
+Renault,Logan,2014,Negro,Nafta,4.0,Manual,1.6,Sedán,86000,pesos,1860000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1471
+Toyota,Yaris,2019,Blanco,Nafta,4.0,Automática,1.5,Sedán,35000,pesos,4800000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1472
+Fiat,Cronos,2021,Gris,Nafta,4.0,Manual,1.3,Sedán,21000,pesos,4190000,4,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1473
+Peugeot,2008,2017,Gris,Nafta,5.0,Manual,1.6,Suv,70000,pesos,3400000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1474
+Toyota,Hilux,2022,Gris,Diésel,4.0,Automática,2.8,Pick-Up,18000,dólares,39990,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1475
+Toyota,Corolla,2013,Plateado,Nafta,4.0,Manual,1.8,Sedán,143000,pesos,2790000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1476
+Chevrolet,Tracker,2020,Plateado,Nafta,5.0,Automática,1.2,Suv,37000,pesos,8900000,5,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1477
+Citroën,Berlingo,2009,Plateado,Nafta,5.0,Manual,1.4,Furgón,220000,pesos,1990000,16,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1478
+Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,Suv,41800,pesos,9100000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1479
+Chevrolet,Onix,2016,Plateado,Nafta,5.0,Manual,1.4,Hatchback,58500,pesos,3075000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1480
+Ford,Ka,2018,Blanco,Nafta,5.0,Manual,1.5,Hatchback,30000,pesos,3290000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1481
+Citroën,C4,2014,Blanco,Nafta,5.0,Automática,2.0,Hatchback,76000,pesos,2390000,11,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1482
+Volkswagen,Golf,2018,Blanco,Nafta,5.0,Automática,2.0,Hatchback,15300,dólares,46990,7,Cotizacion en Pesos (Verificar),Nuevo (<20k),1483
+Chevrolet,Onix,2016,Plateado,Nafta,5.0,Manual,1.4,Hatchback,68000,pesos,2850000,9,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1484
+Renault,Sandero Stepway,2018,Plateado,Nafta/Gnc,5.0,Manual,1.6,Hatchback,52000,pesos,3190000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1485
+Jeep,Grand Cherokee,2017,Gris,Nafta,5.0,Automática,6.4,Suv,35000,dólares,90000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1486
+Toyota,Yaris,2019,Blanco,Nafta,4.0,Manual,1.5,Sedán,37000,pesos,4950000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1487
+Citroën,C3 Picasso,2011,Negro,Nafta,5.0,Manual,1.6,Hatchback,114600,pesos,2300000,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1488
+Volkswagen,Passat,2012,Gris,Nafta,4.0,Automática,2.0,Sedán,147000,dólares,15900,13,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1489
+Ford,Ka,2018,Blanco,Nafta,5.0,Manual,1.5,Hatchback,58000,pesos,3098900,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1490
+Peugeot,408,2011,Negro,Nafta,4.0,Automática,2.0,Sedán,80000,pesos,2499700,14,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1491
+Peugeot,208,2018,Gris,Nafta,5.0,Automática,1.6,Hatchback,33000,pesos,4149800,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1492
+Ford,Ecosport,2016,Negro,Nafta,5.0,Manual,1.6,Suv,80000,pesos,3998700,9,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1493
+Ford,Fiesta Kinetic Design,2015,Azul,Nafta,5.0,Manual,1.6,Hatchback,55000,pesos,3249800,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1494
+Citroën,C3,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,34000,pesos,2799800,12,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1495
+Volkswagen,Suran,2019,Gris,Nafta,5.0,Manual,1.6,Monovolumen,48000,pesos,3949800,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1496
+Nissan,March,2015,Rojo,Nafta,5.0,Manual,1.6,Hatchback,51000,pesos,2781000,10,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1497
+Peugeot,208,2020,Gris,Nafta,5.0,Manual,1.6,Hatchback,11000,pesos,4449800,5,Cotizacion en Pesos (Verificar),Nuevo (<20k),1498
+Ford,Territory,2022,Negro,Nafta,5.0,Automática,1.5,Suv,1000,pesos,11290000,3,Cotizacion en Pesos (Verificar),Nuevo (<20k),1499
+Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,87000,pesos,3450000,8,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1500
+Nissan,March,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,67082,pesos,3000000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1501
+Peugeot,3008,2013,Negro,Nafta,5.0,Manual,1.6,Monovolumen,135000,pesos,3190000,12,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1502
+Honda,Cr-V,2017,Gris,Nafta,5.0,Automática,2.4,Suv,154451,pesos,7700000,8,Cotizacion en Pesos (Verificar),Alto Kilometraje (>150k),1503
+Chevrolet,Cruze,2014,Gris,Nafta,5.0,Manual,1.8,Hatchback,107000,pesos,2890000,11,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1504
+Chevrolet,Tracker,2018,Gris,Nafta,5.0,Automática,1.8,Suv,52000,pesos,5250000,7,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1505
+Volkswagen,Amarok,2019,Gris,Diésel,4.0,Automática,3.0,Pick-Up,49000,dólares,46000,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1506
+Peugeot,2008,2017,Blanco,Nafta,5.0,Manual,1.6,Suv,75358,pesos,3960000,8,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1507
+Volkswagen,Amarok,2019,Gris,Diésel,4.0,Automática,3.0,Pick-Up,57500,dólares,44900,6,Cotizacion en Pesos (Verificar),Uso Medio (20-80k),1508
+Toyota,Etios,2015,Gris,Nafta,5.0,Manual,1.5,Hatchback,84000,pesos,2890000,10,Cotizacion en Pesos (Verificar),Muy Usado (80-150k),1509
