@@ -107,5 +107,6 @@ Visualización: Microsoft Power BI (DAX, Data Modeling).
 Gestión de Configuración: Dotenv.
 
 Logging: Python Logging estándar.
+```
 
-Autor: [Tu Nombre]
+Autor: Kevin Alajarin
