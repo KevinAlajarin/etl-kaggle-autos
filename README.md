@@ -117,24 +117,15 @@ Insights Clave:
 - Comparativa de segmentos de precios en Dólares.
 
 Stack Tecnológico
-Lenguaje: Python (Pandas, SQLAlchemy, PyODBC).
-
-Base de Datos: Microsoft SQL Server.
-
-Visualización: Microsoft Power BI (DAX, Data Modeling).
-
-Gestión de Configuración: Dotenv.
-
-Logging: Python Logging estándar.
-
-Stack Tecnológico
 
 | Área | Tecnología | Uso |
 |------|------------|-----|
 | **Backend** | Python | Pandas, SQLAlchemy, PyODBC |
-| **Database** | SQL Server (MSSQL) | Persistencia de datos relacional |
+| **Base de datos** | SQL Server (MSSQL) | Persistencia de datos relacional |
 | **Frontend** | React, Vite | SPA (Single Page Application) |
-| **DevOps/Tools** | Git, Power BI | Control de versiones y Análisis |
+| **Visualizacion** | Git, Power BI | Control de versiones y Análisis |
+| **Logging** | Python Logging Estandar |
+| **Gestion Configuracion** | Dotenv | 
 
 Proximas mejoras:
  - Incremental load
