@@ -114,4 +114,4 @@ Gestión de Configuración: Dotenv.
 Logging: Python Logging estándar.
 ```
 
-Autor: Kevin Alajarin
+Desarrollado por Kevin ALajarin - 2025
