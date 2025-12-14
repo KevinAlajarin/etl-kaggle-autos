@@ -103,14 +103,15 @@ python -m etl_pipeline.run_pipeline
 Si la ejecución es exitosa, verás los logs indicando la inserción de filas en la DB.
 
 Si es necesario, actualiza el origen de datos (Data Source) apuntando a tu instancia local de SQL Server.
+```
 
 Insights Clave:
 
-Identificación de oportunidades de mercado (Bajo Kilometraje / Precio).
+- Identificación de oportunidades de mercado (Bajo Kilometraje / Precio).
 
-Análisis de depreciación por marca.
+- Análisis de depreciación por marca.
 
-Comparativa de segmentos de precios en Dólares.
+- Comparativa de segmentos de precios en Dólares.
 
 Stack Tecnológico
 Lenguaje: Python (Pandas, SQLAlchemy, PyODBC).
@@ -122,7 +123,15 @@ Visualización: Microsoft Power BI (DAX, Data Modeling).
 Gestión de Configuración: Dotenv.
 
 Logging: Python Logging estándar.
-```
+
+Stack Tecnológico
+
+| Área | Tecnología | Uso |
+|------|------------|-----|
+| **Backend** | Python | Pandas, SQLAlchemy, PyODBC |
+| **Database** | SQL Server (MSSQL) | Persistencia de datos relacional |
+| **Frontend** | React, Vite | SPA (Single Page Application) |
+| **DevOps/Tools** | Git, Power BI | Control de versiones y Análisis |
 
 Proximas mejoras:
  - Incremental load
