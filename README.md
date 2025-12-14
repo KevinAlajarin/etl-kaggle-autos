@@ -46,9 +46,10 @@ El flujo de datos sigue una arquitectura lineal robusta:
 [(SQL Server DB)] 
       ⬇
 [Vistas Analíticas] ➡ [Power BI Dashboard]
-Estructura del Repositorio
-Plaintext
+```
 
+Estructura del Repositorio
+```text
 car_sales_dashboard/
 ├── data/                  # Datos crudos y procesados
 ├── etl_pipeline/          # Código fuente del ETL (Python)
@@ -64,6 +65,8 @@ car_sales_dashboard/
 ├── docs/                  # Documentación adicional
 ├── requirements.txt       # Dependencias de Python
 └── .env.example           # Plantilla de variables de entorno
+```
+```text
 Instalación y Ejecución
 Prerrequisitos
 Python 3.8+
