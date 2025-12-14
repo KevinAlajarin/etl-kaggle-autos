@@ -5,9 +5,24 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow)
 ![ETL](https://img.shields.io/badge/Pipeline-ETL-green)
 
+Objetivos del proyecto:
 Un proyecto *End-to-End* de Ingeniería de Datos y Business Intelligence que analiza la depreciación y valoración de vehículos usados en Argentina. El sistema ingesta datos crudos, los procesa y normaliza, los almacena en un Data Warehouse y los visualiza para la toma de decisiones.
 
-## 🏗️ Arquitectura del Proyecto
+Kaggle utilizado: https://www.kaggle.com/datasets/ahmettalhabektas/argentina-car-prices?resource=download
+
+Calidad de los datos:
+
+- Eliminación de precios fuera de rango
+
+- Validación de años de fabricación
+
+- Normalización de marcas y modelos
+
+- Separación estricta de moneda (ARS / USD)
+
+- Eliminación de registros duplicados
+
+Arquitectura del Proyecto
 
 El flujo de datos sigue una arquitectura lineal robusta:
 
@@ -31,7 +46,7 @@ El flujo de datos sigue una arquitectura lineal robusta:
 [(SQL Server DB)] 
       ⬇
 [Vistas Analíticas] ➡ [Power BI Dashboard]
-📂 Estructura del Repositorio
+Estructura del Repositorio
 Plaintext
 
 car_sales_dashboard/
@@ -49,7 +64,7 @@ car_sales_dashboard/
 ├── docs/                  # Documentación adicional
 ├── requirements.txt       # Dependencias de Python
 └── .env.example           # Plantilla de variables de entorno
-🚀 Instalación y Ejecución
+Instalación y Ejecución
 Prerrequisitos
 Python 3.8+
 
@@ -87,11 +102,6 @@ Bash
 python -m etl_pipeline.run_pipeline
 Si la ejecución es exitosa, verás los logs indicando la inserción de filas en la DB.
 
-4. Visualización
-Ejecuta el script sql_scripts/03_analytical_views.sql para generar las vistas necesarias.
-
-Abre el archivo power_bi/Argentina_Car_Analysis.pbix.
-
 Si es necesario, actualiza el origen de datos (Data Source) apuntando a tu instancia local de SQL Server.
 
 Insights Clave:
@@ -102,7 +112,7 @@ Análisis de depreciación por marca.
 
 Comparativa de segmentos de precios en Dólares.
 
-🛠️ Stack Tecnológico
+Stack Tecnológico
 Lenguaje: Python (Pandas, SQLAlchemy, PyODBC).
 
 Base de Datos: Microsoft SQL Server.
@@ -113,5 +123,14 @@ Gestión de Configuración: Dotenv.
 
 Logging: Python Logging estándar.
 ```
+
+Proximas mejoras:
+ - Incremental load
+
+ - Automatización con scheduler
+
+ - Normalización a modelo estrella
+
+ - Deploy en cloud (Azure / AWS)
 
 Desarrollado por Kevin ALajarin - 2025
