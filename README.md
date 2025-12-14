@@ -124,8 +124,8 @@ Stack Tecnológico
 | **Base de datos** | SQL Server (MSSQL) | Persistencia de datos relacional |
 | **Frontend** | React, Vite | SPA (Single Page Application) |
 | **Visualizacion** | Git, Power BI | Control de versiones y Análisis |
-| **Logging** | Python Logging Estandar |
-| **Gestion Configuracion** | Dotenv | 
+| **Logging** | Python Logging Estandar | Registros de eventos del pipeline ETL, trazabilidad de ejecuciones, deteccion y diagnostico de errores |
+| **Gestion Configuracion** | Dotenv | Gestion segura de variables de entorno |  
 
 Proximas mejoras:
  - Incremental load
